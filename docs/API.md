@@ -60,6 +60,6 @@
 * `useDefaultStyle` 写的时候是否是使用默认头
 #### WriteSheet（就是excel的一个Sheet）参数
 * `sheetNo` 需要写入的编码。默认0
-* `sheetName` 需要些的Sheet名称，默认同`sheetNo`
+* `sheetName` 需要写入的Sheet名称，默认同`sheetNo`
 #### WriteTable（就把excel的一个Sheet,一块区域看一个table）参数
 * `tableNo` 需要写入的编码。默认0
